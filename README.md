@@ -1,2 +1,3 @@
 # Decision-Tree-Classifier-Project-of-social-network-ads
 Social Network Ads Classification: Decision Tree Classifier Project for Predictive Modeling
+# In this project, the objective is to classify social network ads using a Decision Tree classifier for predictive modeling. Decision Tree is a popular machine learning algorithm that uses a tree-like structure to make decisions based on the features of the data.By applying the Decision Tree classifier to classify social network ads, this project aims to provide predictive modeling capabilities for ad click prediction. The results can assist marketers and advertisers in understanding the factors that drive ad engagement, optimizing their targeting strategies, and improving the success of their ad campaigns.
